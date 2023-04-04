@@ -9,8 +9,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  Dart | Rest APIs | JavaScript
-- 🌐 &nbsp; Flutter
-- 🛢 &nbsp; Firebase | sqlite | BloC | Provider | Shared Preferences 
+- 🌐 &nbsp; Flutter | BloC | Provider | Shared Preferences 
+- 🛢 &nbsp; Firebase | sqlite
 - 🔧 &nbsp; Git | GitHub 
 
 <br/>
