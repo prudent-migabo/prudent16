@@ -4,12 +4,12 @@
 
 
 - 💻 &nbsp; Software Engineer
-- 💼 &nbsp; Techy Ahead 🔥 | CRES 🤩
+- 💼 &nbsp; Techy Ahead 🔥 | CRES 🤩 | TecX 🥇
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  Dart | Rest APIs
-- 🌐 &nbsp; Flutter | BloC | Provider
+- 🌐 &nbsp; Flutter | BloC | Provider | NgroK
 - 🛢 &nbsp; Firebase | sqlite |  Shared Preferences
 - 🔧 &nbsp; Git | GitHub 
 
